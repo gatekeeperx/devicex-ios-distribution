@@ -8,7 +8,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "DevicexSDK",
+            name: "Devicex",
             targets: ["Devicex"]
         ),
     ],
@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "Devicex",
             url: "https://github.com/gatekeeperx/devicex-ios-distribution/releases/download/1.0.1/Devicex.xcframework.zip",
-            checksum: "4778ee8afc873e1e1f7689eade5e73311c86bc92a2c5e5d82e228b04d13032a9"
+            checksum: "b79c1de82345d7050751fe7db99ae5701a442a8b0314cd71d6814ab9ec853d6e"
         )
     ]
 )
