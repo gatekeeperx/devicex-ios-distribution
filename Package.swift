@@ -1,4 +1,4 @@
-// swift-tools-version:5.5
+// swift-tools-version: 5.9
 import PackageDescription
 
 let package = Package(
@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Devicex",
-            url: "https://github.com/gatekeeperx/devicex-ios-distribution/releases/download/1.0.3/Devicex.xcframework.zip",
-            checksum: "0f41dd091765d281dfc22a85c670872cb8fd884158528b758ca9bdae397370c0"
+            url: "https://github.com/gatekeeperx/devicex-ios-distribution/releases/download/1.0.4/Devicex.xcframework.zip",
+            checksum: "d6727188197efebc10bb967d2cf9d94bafc60705944cebf3f911e891981412d4"
         )
     ]
 )
