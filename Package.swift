@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "devicex-ios-distribution",
+    name: "Devicex",
     platforms: [
         .iOS(.v17)
     ],
