@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author           = { 'GatekeeperX' => 'contact@gatekeeperx.com' }
   s.source           = { :http => "https://github.com/gatekeeperx/devicex-ios-distribution/releases/download/1.0.7/Devicex.xcframework.zip" }
   
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '17.0'
   s.swift_version = '5.0'
   
   s.vendored_frameworks = 'Devicex.xcframework'
