@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "devicex-ios-distribution",
+    name: "Devicex",
     platforms: [
         .iOS(.v17)
     ],
@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "DeviceX",
             url: "https://github.com/gatekeeperx/devicex-ios-distribution/releases/download/1.0.9/Devicex.xcframework.zip",
-            checksum: "59c5ee6db4bd468d84468361f220f31fdecfd4e4c5ac0055e37aca209a705e7e"
+            checksum: "c18923f1660998b34c7ac9caf728ef406c3614845967187c0399e259ec77f2b1"
         )
     ]
 )
