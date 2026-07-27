@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DeviceX",
-            url: "https://github.com/gatekeeperx/devicex-ios-distribution/releases/download/1.0.12/Devicex.xcframework.zip",
-            checksum: "d5894d7136448fd005dfc1e31dee0482bdf0c656ed32803996914d0b817ce528"
+            url: "https://github.com/gatekeeperx/devicex-ios-distribution/releases/download/1.0.14/Devicex.xcframework.zip",
+            checksum: "f6711a3e5e48601e5967b210c98c908b97f8f7cc4e71f1c26920a9f46e610933"
         )
     ]
 )
